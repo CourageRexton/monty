@@ -11,7 +11,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 1. Clone the repository:
 ```console
-https://github.com/bryansomto/monty.git
+https://github.com/CourageRexton/monty.git
 ```
 
 ## Usage
@@ -57,11 +57,11 @@ The functions used are:
 ### Examples
 
 ```console
-$bryansomto> ls
+$CourageRexton> ls
 basics.c    general.c  main.h  memory.c   shell.c
 builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-[Ike-Adinnu Somtochukwu](https://github.com/bryansomto)
-[Pelumi Olawole](https://github.com/pelumiolawole)
+[Courage Rexton Eboigbe](https://github.com/CourageRexton)
+[Angela Sharon Warau](https://github.com/Angiesha)
